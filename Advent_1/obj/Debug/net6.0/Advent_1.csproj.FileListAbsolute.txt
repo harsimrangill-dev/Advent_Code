@@ -1,0 +1,15 @@
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\bin\Debug\net6.0\Advent_1.exe
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\bin\Debug\net6.0\Advent_1.deps.json
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\bin\Debug\net6.0\Advent_1.runtimeconfig.json
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\bin\Debug\net6.0\Advent_1.dll
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\bin\Debug\net6.0\Advent_1.pdb
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\Advent_1.csproj.AssemblyReference.cache
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\Advent_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\Advent_1.AssemblyInfoInputs.cache
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\Advent_1.AssemblyInfo.cs
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\Advent_1.csproj.CoreCompileInputs.cache
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\Advent_1.dll
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\refint\Advent_1.dll
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\Advent_1.pdb
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\Advent_1.genruntimeconfig.cache
+C:\Users\Computing\Desktop\Advent_Code\Advent_1\obj\Debug\net6.0\ref\Advent_1.dll

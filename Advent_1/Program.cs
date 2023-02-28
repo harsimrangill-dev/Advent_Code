@@ -28,6 +28,10 @@ namespace Advent_code
             
             t1.strgVal();
 
+            day3 dayT3 = new day3();
+            
+            dayT3.sortM();
+
 
 
 

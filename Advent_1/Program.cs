@@ -24,8 +24,12 @@ namespace Advent_code
             
             Console.WriteLine(total);
 
-
+            task2 t1 = new task2();
             
+            t1.strgVal();
+
+
+
 
         }
     }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3ybjtB5k9q1HaTIW4kqp7EGAH8Tl6ws7BiZFjbO/ViAuyjrrPKyFa0Def1tZbc2xYqpB45dzyVavqGjeWXvYig==",
+  "dgSpecHash": "SLW5dxR8AGsRd/c27PCfWOJH+RTTvx0tSBca2CrC++jUmBJSY22gbttc0nmfYEUU4mypmLHKdZ7E7roVNNNDbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Computing\\Desktop\\Advent_Code\\Advent_1\\Advent_1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\microsoft\\Desktop\\Advent_Code\\Advent_1\\Advent_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\microsoft\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\microsoft\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\microsoft\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\microsoft\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
